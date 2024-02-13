@@ -8,7 +8,7 @@ If you want to receive quick and efficient support (including report a bug, requ
 
 This repository allows you to use the [**Bug Report**](https://github.com/telerik/fiddler-everywhere/issues/new?assignees=&labels=Bug&projects=&template=bug_report.md&title=) or [**Feature Request**](https://github.com/telerik/fiddler-everywhere/issues/new?assignees=&labels=%D0%95nhancement&projects=&template=feature_request.md&title=) issue templates.
 
->important The Fiddler Everywhere application is an HTTPS proxy tool that can capture sensitive company or personal information. Using our official Support Center guarantees that all shared information will remain confidential. When you use this GitHub repository to report a bug, request a feature, or comment on an existing thread, always consider that it is a public resource available for anyone to see - removing sensitive data from issue descriptions, shared sessions, and screenshots should be considered with high priority.
+>note The Fiddler Everywhere application is an HTTPS proxy tool that can capture sensitive company or personal information. Using our official Support Center guarantees that all shared information will remain confidential. When you use this GitHub repository to report a bug, request a feature, or comment on an existing thread, always consider that it is a public resource available for anyone to see - removing sensitive data from issue descriptions, shared sessions, and screenshots should be considered with high priority.
 
 ## Downloads
 

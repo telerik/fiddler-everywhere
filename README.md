@@ -1,6 +1,6 @@
 # Fiddler Everywhere
 
-Fiddler Everywhere uses GitHub issues as a **bug and feature request tracker**. This public repository aims at providing a convenient way for developers using Fiddler Everywhere to report and log any issues they may encounter while using the application's functionalities, UI, backend, and account management.
+Fiddler Everywhere uses [GitHub issues](https://github.com/telerik/fiddler-everywhere/issues) as a **bug and feature request tracker**. This public repository aims at providing a convenient way for developers using Fiddler Everywhere to report and log any issues they may encounter while using the application's functionalities, UI, backend, and account management.
 
 **This repository does not contain the source code of the Fiddler Everywhere application.**
 
@@ -77,7 +77,7 @@ For both active trialist and license holders you get access to our legendary tec
 * [Fiddler Everywhere (blog posts)](https://www.telerik.com/blogs/productivity-debugging)
 
 
-_Copyright © 2024 Progress Software Corporation and/or one of its subsidiaries or affiliates. All rights reserved.
+_Copyright © 2024 Progress Software Corporation and/or one of its subsidiaries or affiliates. All rights reserved._
 
-Progress, Telerik, Fiddler, and certain product names used herein are trademarks or registered trademarks of Progress Software Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries._
+_Progress, Telerik, Fiddler, and certain product names used herein are trademarks or registered trademarks of Progress Software Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries._
 

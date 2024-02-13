@@ -79,5 +79,5 @@ For both active trialist and license holders you get access to our legendary tec
 
 _Copyright © 2024 Progress Software Corporation and/or one of its subsidiaries or affiliates. All rights reserved._
 
-_Progress, Telerik, Fiddler, and certain product names used herein are trademarks or registered trademarks of Progress Software Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries._
+_Progress, Telerik, and certain product names used herein are trademarks or registered trademarks of Progress Software Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries._
 

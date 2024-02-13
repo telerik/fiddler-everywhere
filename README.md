@@ -4,7 +4,7 @@ Fiddler Everywhere uses [GitHub issues](https://github.com/telerik/fiddler-every
 
 **This repository does not contain the source code of the Fiddler Everywhere application.**
 
-If you want to receive quick and efficient support (including report a bug, request a feature, or ask us any question) please use one of the [support options](#need-urgent-help?).
+If you want to receive quick and efficient support (including report a bug, request a feature, or ask us any question) please use one of the [support options](#need-urgent-help).
 
 This repository allows you to use the [**Bug Report**](https://github.com/telerik/fiddler-everywhere/issues/new?assignees=&labels=Bug&projects=&template=bug_report.md&title=) or [**Feature Request**](https://github.com/telerik/fiddler-everywhere/issues/new?assignees=&labels=%D0%95nhancement&projects=&template=feature_request.md&title=) issue templates.
 

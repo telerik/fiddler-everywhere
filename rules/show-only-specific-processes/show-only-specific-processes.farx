@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder RulesVersion="2" LastSave="2024-04-30T14:13:25.475596+03:00" FiddlerVersion="5.0.0.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Priority="1" MaxMatchCount="1" Comment="Show Only Traffic from Specific Processes" Enabled="false" Match="{&quot;matchCondition&quot;:3,&quot;matches&quot;:[&quot;%%eyJ0eXBlIjo3LCJrZXkiOiIiLCJjb25kaXRpb24iOiJyZWdleHAiLCJ2YWx1ZSI6ImNvbVxcLmFwcGxlXFwud2Via2l0fGNocm9tZXxtc2VkZ2UiLCJlbmFibGVkIjp0cnVlLCJjYXNlSW5zZW5zaXRpdmVWYWx1ZSI6dHJ1ZSwiY2FzZUluc2Vuc2l0aXZlS2V5Ijp0cnVlfQ==&quot;]}" Action="[&quot;%%eyJ0eXBlIjoxMywiY29uZGl0aW9uIjoic2V0Iiwia2V5IjoiIiwidmFsdWUiOiIiLCJjYXNlSW5zZW5zaXRpdmVLZXkiOnRydWUsImNhc2VJbnNlbnNpdGl2ZVZhbHVlIjp0cnVlLCJpZCI6ImFkbDliamt1eHlvIiwiZmluZCI6IiJ9&quot;]" />
+  </State>
+</AutoResponder>

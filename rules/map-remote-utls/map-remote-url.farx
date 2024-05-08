@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder RulesVersion="2" LastSave="2024-04-30T14:15:24.903186+03:00" FiddlerVersion="5.0.0.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Priority="1" MaxMatchCount="1" Comment="Map Remote (URLs)" Enabled="false" Match="{&quot;matches&quot;:[&quot;%%eyJ0eXBlIjo0LCJrZXkiOm51bGwsImNvbmRpdGlvbiI6ImNvbnRhaW5zIiwidmFsdWUiOiJleGFtcGxlLmNvbSIsImVuYWJsZWQiOnRydWUsImNhc2VJbnNlbnNpdGl2ZVZhbHVlIjp0cnVlLCJjYXNlSW5zZW5zaXRpdmVLZXkiOnRydWUsImlkIjowfQ==&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;%%eyJ0eXBlIjo2LCJjb25kaXRpb24iOiJzZXQiLCJrZXkiOiIiLCJ2YWx1ZSI6Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20iLCJjYXNlSW5zZW5zaXRpdmVLZXkiOnRydWUsImNhc2VJbnNlbnNpdGl2ZVZhbHVlIjp0cnVlLCJpZCI6ImEyNXg2eXVmY2VrIiwiZmluZCI6Ii4qZXhhbXBsZS5jb20vKC4qKSJ9&quot;]" />
+  </State>
+</AutoResponder>

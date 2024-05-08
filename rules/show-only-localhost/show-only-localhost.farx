@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder RulesVersion="2" LastSave="2024-04-30T14:12:59.888885+03:00" FiddlerVersion="5.0.0.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Priority="1" MaxMatchCount="1" Comment="Show Only Localhost Traffic" Enabled="false" Match="{&quot;matchCondition&quot;:3,&quot;matches&quot;:[&quot;%%eyJ0eXBlIjoyLCJrZXkiOiIiLCJjb25kaXRpb24iOiJjb250YWlucyIsInZhbHVlIjoibG9jYWxob3N0IiwiZW5hYmxlZCI6dHJ1ZSwiY2FzZUluc2Vuc2l0aXZlVmFsdWUiOnRydWUsImNhc2VJbnNlbnNpdGl2ZUtleSI6dHJ1ZX0=&quot;,&quot;%%eyJ0eXBlIjoyLCJrZXkiOiIiLCJjb25kaXRpb24iOiJjb250YWlucyIsInZhbHVlIjoiMTI3LjAuMC4xIiwiZW5hYmxlZCI6dHJ1ZSwiY2FzZUluc2Vuc2l0aXZlVmFsdWUiOnRydWUsImNhc2VJbnNlbnNpdGl2ZUtleSI6dHJ1ZX0=&quot;]}" Action="[&quot;%%eyJ0eXBlIjoxMywiY29uZGl0aW9uIjoic2V0Iiwia2V5IjoiIiwidmFsdWUiOiIiLCJjYXNlSW5zZW5zaXRpdmVLZXkiOnRydWUsImNhc2VJbnNlbnNpdGl2ZVZhbHVlIjp0cnVlLCJpZCI6ImF0dGJ2cGY3bGp2IiwiZmluZCI6IiJ9&quot;]" />
+  </State>
+</AutoResponder>
